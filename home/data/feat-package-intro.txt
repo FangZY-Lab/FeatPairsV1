@@ -1,0 +1,5 @@
+FeatPairs package placeholder
+
+This page will later provide the official FP/FeatPairs package release, source repository, installation instructions, example workflows, and citation information.
+
+Current status: preview-only introduction file. Formal package download links are intentionally not published yet.
